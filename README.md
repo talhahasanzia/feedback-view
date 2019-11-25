@@ -2,12 +2,12 @@
 
 Simple feedback view for android
 
-![image](https://github.com/talhahasanzia/feedback-view/blob/master/img/Screenshot_1574715173.png=240x200)
+![image](https://github.com/talhahasanzia/feedback-view/blob/master/img/Screenshot_1574715173.png)
 ![Preview](https://github.com/talhahasanzia/feedback-view/blob/master/img/Screenshot_1574715194.png)
 ![Preview](https://github.com/talhahasanzia/feedback-view/blob/master/img/Screenshot_1574715200.png)
 
 ## Release
-Available Version:  [v1.0](https://github.com/talhahasanzia/feedback-view/releases/tag/v1.0) on [jitpack.io](https://jitpack.io/#talhahasanzia/feedback-view/v1.0) 
+Available Version: [v1.0](https://github.com/talhahasanzia/feedback-view/releases/tag/v1.0) on [jitpack.io](https://jitpack.io/#talhahasanzia/feedback-view/v1.0) 
 
 
 ## Library Source
