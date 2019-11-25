@@ -1,7 +1,10 @@
-# feedback-view [![Release](https://jitpack.io/v/talhahasanzia/feedback-view.svg)](https://jitpack.io/#talhahasanzia/feedback-view/v1.0)  [![GitHub issues](https://img.shields.io/github/issues/talhahasanzia/feedback-view.svg)](https://github.com/talhahasanzia/feedback-view/issues)   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# feedback-view [![Release](https://jitpack.io/v/talhahasanzia/feedback-view.svg)](https://jitpack.io/#talhahasanzia/feedback-view/v1.0)  [![GitHub issues](https://img.shields.io/github/issues/talhahasanzia/feedback-view.svg)](https://github.com/talhahasanzia/feedback-view/issues) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 Simple feedback view for android
 
+![image](https://github.com/talhahasanzia/feedback-view/blob/master/img/Screenshot_1574715173.png=240x200)
+![Preview](https://github.com/talhahasanzia/feedback-view/blob/master/img/Screenshot_1574715194.png)
+![Preview](https://github.com/talhahasanzia/feedback-view/blob/master/img/Screenshot_1574715200.png)
 
 ## Release
 Available Version:  [v1.0](https://github.com/talhahasanzia/feedback-view/releases/tag/v1.0) on [jitpack.io](https://jitpack.io/#talhahasanzia/feedback-view/v1.0) 
