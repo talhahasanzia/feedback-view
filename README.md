@@ -27,8 +27,20 @@ for gradle versions **below 4.0** use:
     compile 'com.github.talhahasanzia:feedback-view:v1.0'
 ```
 ## Sample usage
+In xml:
 ```
-  FeedbackView feedbackView= findViewById(R.id.feedback_view);
+        <com.singledraft.feedbackview.FeedbackView
+        android:layout_width="0dp"
+        android:id="@+id/feedback_view"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+```
+In java:
+```
+        FeedbackView feedbackView= findViewById(R.id.feedback_view);
         // set feedback question
         feedbackView.setQuery("How do you do? ");
 
