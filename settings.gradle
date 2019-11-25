@@ -1,0 +1,2 @@
+include ':app', ':feedbackview'
+rootProject.name='RadioGroupDemo'
